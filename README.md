@@ -1,4 +1,4 @@
-### Hi there 👋
+### pak-ji blog : https://pak-j.tistory.com/
 
 <!--
 **pak-ji/pak-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
