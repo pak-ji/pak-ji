@@ -1,4 +1,5 @@
-##### my blog : https://pak-j.tistory.com/
+- <strong>my blog : https://pak-j.tistory.com/
+- my info : http://inslab.sch.ac.kr/~wlgns12www</strong>
 
 <!--
 **pak-ji/pak-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
